@@ -17,3 +17,6 @@ pip install --upgrade google-auth-oauthlib google-auth-httplib2
 
 # To Access Enviroment Varaibles from .env file
 pip install python-dotenv
+
+
+# Mp3 to Tabs Installation Instructions
